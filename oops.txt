@@ -1,0 +1,10 @@
+
+Customer's Name-- iop
+Rating Given by customer (out of 5) -- 4
+Description given by customer-- Fast service , easy to use and affordable cost.
+
+
+Customer's Name-- Ishan Dhingra
+Rating Given by customer (out of 5) -- 5
+Description given by customer-- Good prices and a very trouble free transaction as well as simple tracking loved how easy it was to place a order.
+
